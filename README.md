@@ -1,7 +1,7 @@
 # URLs path extractor!
 
 This script extracts all URLs paths from a specified file and creates a new file with the results.
-In addition, uses the 'sot -u' command to renove duplicates and removes paths with defined.
+In addition, uses the 'sort -u' command to remove duplicates and removes paths with defined extensions.
 
 ## Usage
 
